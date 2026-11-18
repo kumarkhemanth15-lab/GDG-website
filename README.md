@@ -6,6 +6,11 @@ Welcome to the official website of **Google Developer Groups (GDG) on Campus –
 
 Our website is designed to connect students with technology, innovation, and development opportunities. It provides information about technical workshops, hackathons, coding activities, events, and student community activities.
 
+## 🌍 Live Website
+
+🚀 **Visit our website:** [GDG on Campus – RIT Hassan](https://yashawantha26.github.io/gdg-on-campus-rit-hassan/)
+
+
 ## 🌟 About the Project
 
 GDG on Campus is a student developer community that encourages students to explore new technologies, improve their technical skills, collaborate on projects, and develop real-world solutions.
